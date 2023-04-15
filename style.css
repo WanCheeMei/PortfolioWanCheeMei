@@ -559,21 +559,6 @@ p {
 	/* End Skills Section */
 
 	/* Works */
-	#works .works-item {
-		flex-direction: row;
-	}
-	#works .workst-item:nth-child(even) {
-		flex-direction: row-reverse;
-	}
-	#works .works-item {
-		height: 400px;
-		margin: 0;
-		width: 100%;
-		border-radius: 0;
-	}
-	#works .all-works .works-info {
-		height: 100%;
-	}
 	#works .all-works .works-img {
 		height: 100%;
 	}
