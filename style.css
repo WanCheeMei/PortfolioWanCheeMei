@@ -349,7 +349,7 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center; /* Add this line */
-  margin-top: 15%;
+  margin-top: 0%;
 }
 
 .works-img {
